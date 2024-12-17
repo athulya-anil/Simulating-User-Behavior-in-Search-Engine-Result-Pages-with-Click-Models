@@ -1,4 +1,4 @@
-# Yandex Personalized Web Search Challenge Dataset
+# Yandex Personalized Web Search Challenge Dataset Description
 
 The dataset includes user sessions extracted from Yandex logs, with user IDs, queries, query terms, URLs, their domains, URL rankings, and clicks. The training set is ~16GB when uncompressed.
 
@@ -13,3 +13,5 @@ To allay privacy concerns, the user data is fully anonymized. Only meaningless n
 - **Test sessions**: 797,867  
 - **Clicks in the training data**: 64,693,054  
 - **Total records in the log**: 167,413,039  
+
+## Dataset is too large to add here, so sharing the google drive link - https://drive.google.com/drive/folders/1GHWZM7Eo0aamiaIfHPY8Enffd0CQpplu?usp=sharing
